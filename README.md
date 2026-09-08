@@ -26,14 +26,14 @@ I work on **LLM- and foundation-model-driven scenario generation and analysis fo
 
 | Paper | Venue | Stars | Citations |
 |-------|-------|:-----:|:---------:|
-| 📚 [Foundation Models in AD: A Survey](https://github.com/TUM-AVS/FM-AD-Survey) | IEEE OJ-ITS 2026 | ![Stars](https://img.shields.io/github/stars/TUM-AVS/FM-AD-Survey?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-73-8957e5?style=flat-square) |
+| 📚 [Foundation Models in AD: A Survey](https://github.com/TUM-AVS/FM-AD-Survey) | IEEE OJ-ITS 2026 | ![Stars](https://img.shields.io/github/stars/TUM-AVS/FM-AD-Survey?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-89-8957e5?style=flat-square) |
 | 💬 [Chat2Scenic: Iterative RAG for Scenario Generation](https://github.com/TUM-AVS/Chat2scenic) | IEEE IROS 2026 | ![Stars](https://img.shields.io/github/stars/TUM-AVS/Chat2scenic?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-new-8957e5?style=flat-square) |
-| 🗺️ [NuRisk: Agent-Level Risk VQA Dataset](https://github.com/TUM-AVS/NuRisk) | IEEE ICRA 2026 | ![Stars](https://img.shields.io/github/stars/TUM-AVS/NuRisk?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-5-8957e5?style=flat-square) |
-| 💥 [From Words to Collisions](https://github.com/TUM-AVS/From-Words-to-Collisions) | IEEE ITSC 2025 | ![Stars](https://img.shields.io/github/stars/TUM-AVS/From-Words-to-Collisions?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-15-8957e5?style=flat-square) |
+| 🗺️ [NuRisk: Agent-Level Risk VQA Dataset](https://github.com/TUM-AVS/NuRisk) | IEEE ICRA 2026 | ![Stars](https://img.shields.io/github/stars/TUM-AVS/NuRisk?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-7-8957e5?style=flat-square) |
+| 💥 [From Words to Collisions](https://github.com/TUM-AVS/From-Words-to-Collisions) | IEEE ITSC 2025 | ![Stars](https://img.shields.io/github/stars/TUM-AVS/From-Words-to-Collisions?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-17-8957e5?style=flat-square) |
 | 🔗 [H2 Suboptimal Leader-Follower Consensus Control](https://github.com/yuangao-tum/IFAC2023) | IFAC WC 2023 | ![Stars](https://img.shields.io/github/stars/yuangao-tum/IFAC2023?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-3-8957e5?style=flat-square) |
 | 📐 [H2 Suboptimal Containment Control](https://github.com/yuangao-tum/ACC2023) | ACC 2023 | ![Stars](https://img.shields.io/github/stars/yuangao-tum/ACC2023?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-1-8957e5?style=flat-square) |
 
-<sub>★ = live GitHub stars · citations from <a href="https://scholar.google.com/citations?user=LXhDmFIAAAAJ">Google Scholar</a> (snapshot, Jul 2026)</sub>
+<sub>★ = live GitHub stars · citations from <a href="https://scholar.google.com/citations?user=LXhDmFIAAAAJ">Google Scholar</a> (snapshot, Sep 2026)</sub>
 
 ➡️ Full list on my [**publications page**](https://yuangao-tum.github.io/publications/).
 
