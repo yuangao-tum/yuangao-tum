@@ -41,9 +41,12 @@ I work on **LLM- and foundation-model-driven scenario generation and analysis fo
 
 Reviewer for **IROS, ICRA, ITSC, IV, CVPR, NeurIPS, ICLR, WACV** and IEEE OJ-ITS / RA-L.
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
+<!-- STATS:START -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuangao-tum&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuangao-tum&layout=compact&hide_border=true" alt="Top languages"/>
+  <b>★ 321</b> stars across project repos &nbsp;·&nbsp; <b>31</b> followers &nbsp;·&nbsp; <b>16</b> public repos
 </p>
+<!-- STATS:END -->
+
+<p align="center"><sub>Totals cover the repos in Selected Work, including those under <a href="https://github.com/TUM-AVS">TUM-AVS</a> · refreshed monthly by <a href="https://github.com/yuangao-tum/yuangao-tum/blob/main/.github/workflows/update-stats.yml">update-stats.yml</a></sub></p>
