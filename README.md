@@ -26,6 +26,7 @@ I work on **LLM- and foundation-model-driven scenario generation and analysis fo
 
 | Paper | Venue | Stars | Citations |
 |-------|-------|:-----:|:---------:|
+| 🤖 [PlannerForge: LLM Agents for Scenario-Based Testing](https://github.com/TUM-AVS/PlannerForge) | EMNLP 2026 | ![Stars](https://img.shields.io/github/stars/TUM-AVS/PlannerForge?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-new-8957e5?style=flat-square) |
 | 📚 [Foundation Models in AD: A Survey](https://github.com/TUM-AVS/FM-AD-Survey) | IEEE OJ-ITS 2026 | ![Stars](https://img.shields.io/github/stars/TUM-AVS/FM-AD-Survey?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-89-8957e5?style=flat-square) |
 | 💬 [Chat2Scenic: Iterative RAG for Scenario Generation](https://github.com/TUM-AVS/Chat2scenic) | IEEE IROS 2026 | ![Stars](https://img.shields.io/github/stars/TUM-AVS/Chat2scenic?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-new-8957e5?style=flat-square) |
 | 🗺️ [NuRisk: Agent-Level Risk VQA Dataset](https://github.com/TUM-AVS/NuRisk) | IEEE ICRA 2026 | ![Stars](https://img.shields.io/github/stars/TUM-AVS/NuRisk?style=flat-square&label=%E2%98%85&color=dfb317&labelColor=444) | ![Cites](https://img.shields.io/badge/cites-7-8957e5?style=flat-square) |
@@ -45,7 +46,7 @@ Reviewer for **IROS, ICRA, ITSC, IV, CVPR, NeurIPS, ICLR, WACV** and IEEE OJ-ITS
 
 <!-- STATS:START -->
 <p align="center">
-  <b>★ 321</b> stars across project repos &nbsp;·&nbsp; <b>31</b> followers &nbsp;·&nbsp; <b>16</b> public repos
+  <b>★ 323</b> stars across project repos &nbsp;·&nbsp; <b>31</b> followers &nbsp;·&nbsp; <b>16</b> public repos
 </p>
 <!-- STATS:END -->
 
