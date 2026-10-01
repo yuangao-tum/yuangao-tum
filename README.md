@@ -46,7 +46,7 @@ Reviewer for **IROS, ICRA, ITSC, IV, CVPR, NeurIPS, ICLR, WACV** and IEEE OJ-ITS
 
 <!-- STATS:START -->
 <p align="center">
-  <b>★ 323</b> stars across project repos &nbsp;·&nbsp; <b>31</b> followers &nbsp;·&nbsp; <b>16</b> public repos
+  <b>★ 339</b> stars across project repos &nbsp;·&nbsp; <b>31</b> followers &nbsp;·&nbsp; <b>16</b> public repos
 </p>
 <!-- STATS:END -->
 
